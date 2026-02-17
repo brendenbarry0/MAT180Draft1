@@ -9,9 +9,9 @@ https://www.kaggle.com/datasets/parthpatel2130/realistic-loan-approval-dataset-u
 Optionally, this CSV is also available in the repository.
 
 #Running The Code:
-The repository contains a file called 'Test' which contains the code for the model. 
+The repository contains a file called 'RealDraft' which contains the code for the model. 
 
-To run the code, open the 'Test' file in Google Colab. 
+To run the code, open the 'RealDraft' file in Google Colab. 
 
 Then upload the dataset. There are two options:
 1. Upload CSV manually
