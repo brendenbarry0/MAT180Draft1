@@ -14,7 +14,7 @@ https://creativecommons.org/licenses/by-nc/4.0/
 ## Running The Code:
 The repository contains a file called "FinalDraft" which contains the code for the midterm-level model. 
 
-To run the code, open the 'Real_Draft' file in Google Colab. 
+To run the code, open the 'FinalDraft' file in Google Colab. 
 
 Then upload the dataset. There are two options:
 1. Upload CSV manually
