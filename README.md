@@ -12,7 +12,7 @@ Optionally, this CSV is also available in the repository.
 https://creativecommons.org/licenses/by-nc/4.0/
 
 ## Running The Code:
-The repository contains a file called "Real_Draft.ipynb" which contains the code for the model. 
+The repository contains a file called "FinalDraft" which contains the code for the midterm-level model. 
 
 To run the code, open the 'Real_Draft' file in Google Colab. 
 
